@@ -1,0 +1,8 @@
+ADDING A NEW REPOSITORY TO GITHUB
+                          
+
+creating a repo,consits of 3 stps
+
+1) git add
+2) git commit
+3) git push                                                                                                                                                                                                                                                                                                                      
